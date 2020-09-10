@@ -2,4 +2,4 @@
 
 my website is awesome
 
-Edit on example branch
+Updates made on the master on GitHub before rebase
