@@ -3,3 +3,7 @@
 my website is awesome
 
 Updates made on the master on GitHub before rebase
+
+## Purpose
+
+This file is just a readme file.
